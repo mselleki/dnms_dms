@@ -1,0 +1,1 @@
+/Users/icrin/PycharmProjects/first/venv/bin/Activate.ps1

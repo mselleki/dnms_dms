@@ -1,0 +1,16 @@
+Wheel-Version: 1.0
+Generator: bdist_wheel (0.34.2)
+Root-Is-Purelib: true
+Tag: py2-none-macosx_10_6_intel
+Tag: py27-none-macosx_10_6_intel
+Tag: py3-none-macosx_10_6_intel
+Tag: py30-none-macosx_10_6_intel
+Tag: py31-none-macosx_10_6_intel
+Tag: py32-none-macosx_10_6_intel
+Tag: py33-none-macosx_10_6_intel
+Tag: py34-none-macosx_10_6_intel
+Tag: py35-none-macosx_10_6_intel
+Tag: py36-none-macosx_10_6_intel
+Tag: py37-none-macosx_10_6_intel
+Tag: py38-none-macosx_10_6_intel
+
